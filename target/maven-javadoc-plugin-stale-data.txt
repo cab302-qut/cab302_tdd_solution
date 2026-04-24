@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/antho/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21.jar;C:/Users/antho/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar;C:/Users/antho/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21.jar;C:/Users/antho/.m2/repository/org/openjfx/javafx-fxml/21/javafx-fxml-21.jar;C:/Users/antho/.m2/repository/org/apache/maven/plugins/maven-surefire-plugin/3.5.3/maven-surefire-plugin-3.5.3.jar;C:/Users/antho/.m2/repository/org/apache/maven/surefire/surefire-api/3.5.3/surefire-api-3.5.3.jar;C:/Users/antho/.m2/repository/org/apache/maven/surefire/surefire-logger-api/3.5.3/surefire-logger-api-3.5.3.jar;C:/Users/antho/.m2/repository/org/apache/maven/surefire/surefire-shared-utils/3.5.3/surefire-shared-utils-3.5.3.jar;C:/Users/antho/.m2/repository/org/apache/maven/surefire/surefire-extensions-api/3.5.3/surefire-extensions-api-3.5.3.jar;C:/Users/antho/.m2/repository/org/apache/maven/surefire/maven-surefire-common/3.5.3/maven-surefire-common-3.5.3.jar;C:/Users/antho/.m2/repository/org/apache/maven/surefire/surefire-booter/3.5.3/surefire-booter-3.5.3.jar;C:/Users/antho/.m2/repository/org/apache/maven/surefire/surefire-extensions-spi/3.5.3/surefire-extensions-spi-3.5.3.jar;C:/Users/antho/.m2/repository/org/apache/maven/resolver/maven-resolver-util/1.4.1/maven-resolver-util-1.4.1.jar;C:/Users/antho/.m2/repository/org/apache/maven/resolver/maven-resolver-api/1.4.1/maven-resolver-api-1.4.1.jar;C:/Users/antho/.m2/repository/org/apache/maven/shared/maven-common-artifact-filters/3.4.0/maven-common-artifact-filters-3.4.0.jar;C:/Users/antho/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar;C:/Users/antho/.m2/repository/org/codehaus/plexus/plexus-java/1.4.0/plexus-java-1.4.0.jar;C:/Users/antho/.m2/repository/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar;C:/Users/antho/.m2/repository/com/thoughtworks/qdox/qdox/2.2.0/qdox-2.2.0.jar'
+--module-path
+'C:/Users/antho/OneDrive - Queensland University of Technology/Sem_1_2026/CAB302/cab302_tdd_solution/target/classes;C:/Users/antho/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21-win.jar;C:/Users/antho/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21-win.jar;C:/Users/antho/.m2/repository/org/xerial/sqlite-jdbc/3.49.1.0/sqlite-jdbc-3.49.1.0.jar;C:/Users/antho/.m2/repository/org/openjfx/javafx-fxml/21/javafx-fxml-21-win.jar;C:/Users/antho/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21-win.jar'
+--patch-module
+com.example.addressbook='C:/Users/antho/OneDrive - Queensland University of Technology/Sem_1_2026/CAB302/cab302_tdd_solution/src/main/java'
+-encoding
+'UTF-8'
+-protected
+--module-source-path
+'C:/Users/antho/OneDrive - Queensland University of Technology/Sem_1_2026/CAB302/cab302_tdd_solution/target/docs/javadoc/src'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/antho/OneDrive - Queensland University of Technology/Sem_1_2026/CAB302/cab302_tdd_solution/target/docs/javadoc'
+-docencoding
+'UTF-8'
+-doctitle
+'address-book 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'address-book 1.0-SNAPSHOT API'
+com.example.addressbook.controller
+com.example.addressbook
+com.example.addressbook.model
+'C:/Users/antho/OneDrive - Queensland University of Technology/Sem_1_2026/CAB302/cab302_tdd_solution/src/main/java/module-info.java'
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\allclasses-index.html = 1777004325888
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\allpackages-index.html = 1777004325895
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\constant-values.html = 1777004325773
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\copy.svg = 1777004325989
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\element-list = 1777004325705
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\help-doc.html = 1777004325974
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\index-all.html = 1777004325953
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\index.html = 1777004325964
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\link.svg = 1777004325992
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\member-search-index.js = 1777004325907
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\module-search-index.js = 1777004325897
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\overview-tree.html = 1777004325863
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\package-search-index.js = 1777004325900
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\script.js = 1777004325986
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\search-page.js = 1777004326002
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\search.html = 1777004325958
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\search.js = 1777004325997
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\stylesheet.css = 1777004325981
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\tag-search-index.js = 1777004325910
+C:\Users\antho\OneDrive - Queensland University of Technology\Sem_1_2026\CAB302\cab302_tdd_solution\target\docs\javadoc\type-search-index.js = 1777004325904
